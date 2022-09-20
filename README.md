@@ -1,1 +1,5 @@
-# destinybravos-
+- 👋 Hi, I’m Destiny Brotobor
+- 👀 I’m an experienced Software Engineer with indepth knowledge on various stacks
+- 🌱 I’m currently working a lot of projects.
+- 💞️ I’m also looking forward to collaborate on various open source projects
+- 📫 How to reach me destinybravos@gmail.com
